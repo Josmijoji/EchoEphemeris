@@ -1,4 +1,4 @@
 delivery_data
 postgres
-my_password
+Fyers
 10000
